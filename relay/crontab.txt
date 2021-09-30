@@ -1,0 +1,2 @@
+33 * * * * /home/relay/cardano-my-node/topologyUpdater.sh
+33 * * * * /home/relay/cardano-my-node/topologyUpdater.sh
